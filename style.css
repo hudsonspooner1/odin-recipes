@@ -1,0 +1,18 @@
+h1 {
+    font-size: 150px;
+    color: pink;
+    background-color: rgb(255, 33, 70);
+}
+
+.link {
+    font-size: 50px;
+    color: aqua;
+    background-color: rgb(0, 132, 255);
+    display: block;
+    margin-top: 50px;
+    text-align: center;
+}
+
+* {
+    background-color: aquamarine;
+}
